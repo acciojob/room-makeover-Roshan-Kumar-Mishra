@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.color-name{
+	color: darkblue;
+	font-size: 20px;
+	text-align: center;
+}
+.favorite-color{
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
